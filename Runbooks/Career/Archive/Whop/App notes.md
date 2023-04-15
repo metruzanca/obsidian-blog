@@ -1,0 +1,6 @@
+- Broken blog links on whopio twitter (make blog.whop.com redirect to whop.com/blog)
+- Made an account to try out the platform (ended up making a "company" type account). Found a bug where on the `https://dash.whop.com/home` page I am unable to logout (so that I can see the default site)
+- ![[misaligned-@-sign.png]]
+- As a new user, I'm unsure what to do on the site.
+	- ![[whop-hero-section.png]]
+	- I think the "Learn more" needs to be a colorfull CTA button as I missed it on my first viewings. I mistook it for a slogan under the "Whop Marketplace" page title.
