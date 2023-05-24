@@ -2,9 +2,12 @@
 .obsidian
 _meta
 
--Inbox
+BentoBox
 Finance
 Journal
 Projects
 Thoughts
 readme.md
+
+# Syncthing Internals
+.stfolder*

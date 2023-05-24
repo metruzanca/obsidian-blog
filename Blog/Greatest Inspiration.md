@@ -12,3 +12,6 @@ draft: true
 [The Truth About Learning to Program |embed](https://www.youtube.com/watch?v=Af_j9VtKYXk)
 
 [I'm not good enough  |embed](https://www.youtube.com/watch?v=6TYkDy54q4E)
+
+
+https://www.youtube.com/watch?v=kLKdZbQjo7o

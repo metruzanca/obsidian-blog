@@ -28,3 +28,8 @@ And if you want the converted files in a directory called `OUTPUT`, use:
 mkdir OUTPUT
 magick mogrify -format JPEG -path OUTPUT *.webp
 ```
+
+## Convert directory of `webp`s to other format
+```
+for file in *.webp; do magick "$file" "${file%.webp}.jpg"; done
+```
